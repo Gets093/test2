@@ -5,6 +5,9 @@ Programa de una maquina vending refrigerada con las siguientes caracteristicas:
 --Deteccion de caida de objeto
 --Detector de monedas
 --Gestion de la maquina mediante comandos Shell()
+asdfasdf
+asdfasdfasd
+asdfasdfasdf
 
 Control de refrigeracion:
 – Cada zona de refrigeración tendrá un control de temperatura individual. La activación de las zonas se hará de forma
